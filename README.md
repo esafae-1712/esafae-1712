@@ -1,4 +1,4 @@
-* Hallo, ich bin Safae El Boutaybi 👋
+# Hallo, ich bin Safae El Boutaybi 👋
 * Wirtschaftsinformatik-Studentin | IT & Business
 * Ich verbinde technisches Interesse mit wirtschaftlichem Denken und entwickle gerne digitale Lösungen für praktische Probleme.
 
